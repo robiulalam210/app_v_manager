@@ -4,7 +4,7 @@
     "data": {
         "app_name": "Meherin Mart",
         "package_name": "com.meherin.meherinMart",
-        "play_store_version": "1.0.8+9",
+        "play_store_version": "1.0.9+10",
         "app_store_version": "1.0.0",
         "microsoft_store_version": "1.0.0+1",
         "force_update": false,
