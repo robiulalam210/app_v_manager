@@ -1,0 +1,26 @@
+{
+    "success": true,
+    "message": "The request is ok",
+    "data":{
+  "app_name": "Digi Aiyaat",
+  "package_name": "com.macrohealthplus.digiAiyaat",
+  "play_store_version": "1.0.4+5",
+  "app_store_version": "2.0.0",
+  "microsoft_store_version": null,
+  "force_update_play_store": false,
+  "force_update_app_store": false,
+  "is_pause_play_store": false,
+  "is_pause_app_store": false,
+  "app_icon": "https://example.com/icon.png",
+  "play_store_link": "https://play.google.com/store/apps/details?id=com.macrohealthplus.digiAiyaat",
+  "app_store_link": null,
+  "microsoft_store_link": null,
+  "id": 1,
+  "created_at": "2025-09-16T08:00:00Z",
+  "updated_at": "2025-09-16T09:00:00Z",
+  "created_by": "admin",
+  "updated_by": "admin",
+  "update_message": "Minor Issue Fix "
+
+}
+}

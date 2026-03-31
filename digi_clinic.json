@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "message": "The request is ok",
+  "data": {
+    "id": 1,
+    "app_name": "Great Clinic",
+    "package_name": "com.macrohealthplus.digiclinic",
+    "play_store_version": "1.1.2+13",
+    "app_store_version": "2.0.0",
+    "microsoft_store_version": null,
+    "force_update_play_store": false,
+    "force_update_app_store": false,
+    "is_pause_play_store": false,
+    "is_pause_app_store": false,
+    "app_icon": "https://example.com/icon.png",
+    "play_store_link": "https://play.google.com/store/apps/details?id=com.macrohealthplus.digiclinic",
+    "app_store_link": null,
+    "microsoft_store_link": null,
+    "created_at": "2025-09-16T08:00:00Z",
+    "updated_at": "2025-09-16T09:00:00Z",
+    "created_by": "admin",
+    "updated_by": "admin",
+    "update_message": "Minor change"
+  }
+}
